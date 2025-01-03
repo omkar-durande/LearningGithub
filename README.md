@@ -1,3 +1,3 @@
 # LearningGithub
 This is my first repository <br>
-author : omkar Durande
+author :Mr Omkar Durande
